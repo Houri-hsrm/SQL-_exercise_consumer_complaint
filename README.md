@@ -29,9 +29,13 @@ For my deep dive into consumer complaints data, I used several important tools:
 
 
 ### 3. Top 10 Comapnies
+The top three companies with the highest number of complaints in 2024 are Experian Information Solutions Inc. (55,478 complaints), Equifax Inc. (46,109), and TransUnion Intermediate Holdings Inc. (36,095), indicating a significant rise in complaint volumes compared to 2014. In 2014, the top complaint recipients were also Experian (2,591), Bank of America (2,569), and Equifax (2,485). This trend highlights a growing concern in consumer reporting agencies and credit-related services over the decade.
+
+![Top Company](docs/Top_comapnies.PNG)
 
 
 ### 4. Top States with Highest complaints growth
+The data highlights the top U.S. states that experienced the most significant growth in consumer complaints from 2014 to 2024. Louisiana (LA) tops the list with a remarkable increase, rising from 382 complaints in 2014 to 3,305 in 2024. It is closely followed by Mississippi, Georgia, and Alabama. These data suggest a dramatic rise in consumer dissatisfaction or reporting behavior in the Southern region. Notably, large states like Texas and Florida also show substantial absolute increases in complaints.
 
 
 ![Top States](docs/Top_States.png)
