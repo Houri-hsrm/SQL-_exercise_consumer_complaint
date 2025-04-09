@@ -22,10 +22,13 @@ For my deep dive into consumer complaints data, I used several important tools:
 Each query for this project aimed at investigating specific aspects of the data analyst. Here’s how I approached each question:
 
 
-### 1. Top Product Complaints of 2014
+### 1. Top Product Complaints of 2014 and 2024
 
+In 2014, the top product complaints were centered around financial products and services, with the highest complaints about mortgages, followed by debt collection and credit reporting. 
 
-### 1. Top Product Complaints of 2024
+By 2024, the landscape of complaints shifted dramatically, especially in the category of credit reporting or other personal consumer reports, which saw a massive increase in complaints. Complaints related to debt collection and credit cards remained, though the number for debt collection dropped significantly. This data highlights a shift in consumer concerns, with a massive rise in issues related to personal credit reporting.
+
+![Top products](docs/Top_Products.PNG)
 
 
 ### 2. New Product
