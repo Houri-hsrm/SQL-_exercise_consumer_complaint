@@ -18,6 +18,9 @@ For my deep dive into consumer complaints data, I used several important tools:
 - **Visual Studio Code** 
 - **Git & GitHub** 
 
+## The Analysis
+Each query for this project aimed at investigating specific aspects of the data analyst. Here’s how I approached each question:
+
 
 ### 1. Top Product Complaints of 2014
 
@@ -27,6 +30,16 @@ For my deep dive into consumer complaints data, I used several important tools:
 
 ### 2. New Product
 
+The products listed above were growth in the years following 2014. For example, "virtual currency" and "money services" became much more prominent with the rise of cryptocurrencies and "money transfer" services like PayPal made it easier to send money online. These changes show how technology and new trends have shaped financial products since 2014.
+
+|New products|
+|------------|
+|Checking or savings account|
+|Credit reporting or other personal consumer reports|
+|Debt or credit management|
+|Money transfer, virtual currency, or money service|
+|Payday loan, title loan, personal loan, or advance loan|
+|Vehicle loan or lease|
 
 ### 3. Top 10 Comapnies
 The top three companies with the highest number of complaints in 2024 are Experian Information Solutions Inc. (55,478 complaints), Equifax Inc. (46,109), and TransUnion Intermediate Holdings Inc. (36,095), indicating a significant rise in complaint volumes compared to 2014. In 2014, the top complaint recipients were also Experian (2,591), Bank of America (2,569), and Equifax (2,485). This trend highlights a growing concern in consumer reporting agencies and credit-related services over the decade.
