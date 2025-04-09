@@ -34,7 +34,7 @@ For my deep dive into consumer complaints data, I used several important tools:
 ### 4. Top States with Highest complaints growth
 
 
-![Alt Text](docs/image.png)
+![Top States](docs/Top States.PNG)
 
 
 
