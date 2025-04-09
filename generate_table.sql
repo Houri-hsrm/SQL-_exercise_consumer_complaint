@@ -27,7 +27,7 @@ SELECT *, '2024' AS complaint_year FROM complaints_2024;
 
 SELECT *
 FROM complaints
-LIMIT 30;
+LIMIT 35;
 
 
 
