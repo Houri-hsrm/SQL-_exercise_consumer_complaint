@@ -1,4 +1,4 @@
-##  Analysis of Financial Complaints Filed by American Consumers: A Comparison of 2014 and 2024
+##  Analysis of Financial Complaints by American Consumers: A Comparison of 2014 and 2024
 
 The Consumer Financial Protection Bureau (CFPB - USA) collects complaints about consumer financial products and services, and sends them to companies for response. Complaints vary in a wide range of products.
 
