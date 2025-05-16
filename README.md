@@ -15,7 +15,8 @@ For my deep dive into consumer complaints data, I used several important tools:
 
 - **SQL** 
 - **PostgreSQL** 
-- **Visual Studio Code** 
+- **Visual Studio Code**
+- **Power BI**
 - **Git & GitHub** 
 
 ## The Analysis
